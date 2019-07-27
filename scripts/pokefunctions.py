@@ -16,6 +16,75 @@ from io import BytesIO
 
 
 #%%
+def generation_palette():
+    """
+    Get color palette for Pokemon generations.
+    
+    Parameters
+    ----------
+    None
+    
+    Returns
+    -------
+    dictionary
+        Keys are ints corresponding to the generation.
+        Values are strings with hexadecimal color code.
+        
+    Notes
+    -----
+    Colors were obtain from Bulbapedia
+    https://bulbapedia.bulbagarden.net/wiki/Generation
+    """
+    return {1:'#ACD36C',
+            2:'#DCD677',
+            3:'#9CD7C8', 
+            4:'#B7A3C3', 
+            5:'#9FCADF', 
+            6:'#DD608C', 
+            7:'#E89483'}
+
+
+#%%
+def type_palette():
+    """
+    Get color palette for Pokemon types.
+    
+    Parameters
+    ----------
+    None
+    
+    Returns
+    -------
+    dictionary
+        Keys are strings corresponding to the type.
+        Values are strings with hexadecimal color code.
+        
+    Notes
+    -----
+    Colors were obtain from Bulbapedia
+    https://bulbapedia.bulbagarden.net/wiki/Type
+    """
+    return {'normal':'#A8A878',
+            'fire':'#F08030',
+            'fighting':'#C03028',
+            'water':'#6890F0',
+            'flying':'#A890F0',
+            'grass':'#78C850',
+            'poison':'#A040A0',
+            'electric':'#F8D030',
+            'ground':'#E0C068',
+            'psychic':'#F85888',
+            'rock':'#B8A038',
+            'ice':'#98D8D8',
+            'bug':'#A8B820',
+            'dragon':'#7038F8',
+            'ghost':'#705898',
+            'dark':'#705848',
+            'steel':'#B8B8D0',
+            'fairy':'#EE99AC'}
+            
+            
+#%%            
 def get_pokeball_location():
     """
     Get the location of the pokeball image. This one is used as a sprite
