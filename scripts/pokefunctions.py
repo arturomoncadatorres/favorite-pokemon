@@ -10,6 +10,8 @@ arturomoncadatorres@gmail.com
 
 
 #%% Preliminaries
+import pandas as pd
+import numpy as np
 import requests
 from PIL import Image
 from io import BytesIO
@@ -83,7 +85,119 @@ def type_palette():
             'steel':'#B8B8D0',
             'fairy':'#EE99AC'}
             
-            
+       
+#%%
+def read_raw_data(path_data_file):
+    """
+    Read raw data file.
+    
+    Parameters
+    ----------
+    path_data_file: string or pathlib.Path
+        Path to the Excel file with the results.
+    
+    Returns
+    -------
+    df_raw: pandas DataFrame
+        DataFrame with favorite Pokemon survey results. It has columns:
+            name        Pokemon name
+            votes       Number of votes the Pokemon received
+            types       Pokemon types
+            generation  Generation
+            family      Pokemon's family (first evolution)
+        
+    Notes
+    -----
+    Data was collected by mamamia1001 in the reddit survey
+    "Testing the "Every Pokemon is someone's favorite hypothesis"
+    https://www.reddit.com/r/pokemon/comments/c04rvq/survey_testing_the_every_pok%C3%A9mon_is_someones/
+    """
+    
+    # Read data.
+    df_raw = pd.read_excel(path_data_file, sheet_name='Results', usecols='A:E')
+    
+    # Rename columns.
+    df_raw.rename(columns={'Results in full':'name', 'Unnamed: 1':'votes', 'Unnamed: 2':'types', 'Unnamed: 3':'generation', 'Unnamed: 4':'family'}, inplace=True)
+
+    # Shift the index by 1, so that it matches the Pokemon number.
+    df_raw.index = df_raw.index + 1
+    
+    # Remove any potential NaN.
+    df_raw.dropna(inplace=True)
+    
+    # Make sure generation is int.
+    df_raw['generation'] = df_raw['generation'].astype(int)
+
+    return df_raw
+
+
+#%%
+def rank_raw_data(df):
+    """
+    Rank a raw data Data Frame and add relevant columns.
+    
+    Parameters
+    ----------
+    df: pandas DataFrame
+    
+    Returns
+    -------
+    df_ranked: pandas DataFrame
+        Ranked DataFrame. Least popular Pokemon are on the top, most popular
+        on the bottom. Furthermore, the following columns are added to the
+        original one:
+            ranking_overall     Overall ranking of the Pokemon
+            ranking_generation  Ranking of the Pokemon in its generation
+    """
+    
+    # Sort by popularity.
+    df_ranked = df.sort_values('votes', ascending=True)
+    
+    # Add general ranking.
+    df_ranked['ranking_overall'] = np.arange(1, len(df_ranked) + 1)[::-1]
+    
+    # Add generation ranking.
+    df_ranked['ranking_generation'] = df_ranked.groupby('generation')['votes'].rank(method='first', ascending=False)
+
+    return df_ranked
+
+
+#%%
+def read_votes(path_data_file):
+    """
+    Read data file with the survey's votes.
+    
+    Parameters
+    ----------
+    path_data_file: string or pathlib.Path
+        Path to the Excel file with the votes.
+    
+    Returns
+    -------
+    df_raw: pandas DataFrame
+        DataFrame with favorite Pokemon survey votes. It has columns:
+            timestamp   Time when the vote was casted
+            vote        Name of the Pokemon that was voted
+        
+    Notes
+    -----
+    Data was collected by mamamia1001 in the reddit survey
+    "Testing the "Every Pokemon is someone's favorite hypothesis"
+    https://www.reddit.com/r/pokemon/comments/c04rvq/survey_testing_the_every_pok%C3%A9mon_is_someones/
+    """
+    
+    # Read data.
+    df_votes = pd.read_excel(path_data_file, sheet_name='Form Responses 1')
+    
+    # Rename columns.
+    df_votes.rename(columns={'Timestamp':'timestamp', 'What is your favourite Pokémon?':'vote'}, inplace=True)
+
+    # Remove any potential NaN.
+    df_votes.dropna(inplace=True)
+    
+    return df_votes
+
+
 #%%            
 def get_pokeball_location():
     """
