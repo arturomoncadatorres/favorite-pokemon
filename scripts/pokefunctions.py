@@ -319,6 +319,43 @@ def get_sprite(pokemon_number):
 
 
 #%%
+def get_sprite_color(sprite):
+    """
+    Get the most regular color of a Pokemon sprite.
+    
+    Parameters
+    ----------
+    sprite: PIL image
+        Pokemon sprite (read from a png image).
+    
+    Returns
+    -------
+    color_hex: string
+        String with the hexadecimal representation of the most common
+        color of the Pokemon sprite.
+    """
+
+    # Convert to RGB.
+    sprite_rgb = sprite.convert('RGB')
+    
+    # Get the sprite's color composition.
+    colors = sorted(sprite_rgb.getcolors())
+    
+    # Get the most common color.
+    color = colors[-1][1]
+    
+    # If the most common color is white (probably background),
+    # chose the second most common color.
+    if color == (0, 0, 0):
+        color = colors[-2][1]
+    
+    # Convert to hex.
+    color_hex = f'#{color[0]:02x}{color[1]:02x}{color[2]:02x}'
+
+    return color_hex
+
+
+#%%
 def get_sprite_html_text(pokemon_number, alt='', width=100):
     """
     Get a Pokemon HTML text pointing to its sprite (to be used in the
