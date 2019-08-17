@@ -335,6 +335,11 @@ def get_sprite_color(sprite):
         color of the Pokemon sprite.
     """
 
+    # Make sure input sprite has P mode (8-bit pixels)
+    # See https://pillow.readthedocs.io/en/5.1.x/handbook/concepts.html#modes
+    if sprite.mode != 'P':
+        sprite = sprite.convert('P')
+        
     # Convert to RGB.
     sprite_rgb = sprite.convert('RGB')
     
@@ -344,7 +349,7 @@ def get_sprite_color(sprite):
     # Get the most common color.
     color = colors[-1][1]
     
-    # If the most common color is white (probably background),
+    # If the most common color is black (probably background),
     # chose the second most common color.
     if color == (0, 0, 0):
         color = colors[-2][1]
