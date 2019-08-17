@@ -198,6 +198,34 @@ def read_votes(path_data_file):
     return df_votes
 
 
+#%%
+def process_pokemon_votes(df_votes, pokemon_name):
+    """
+    Processon a votes DataFrame for a specific Pokemon.
+    
+    Parameters
+    ----------
+    df: pandas DataFrame
+        Original votes DataFrame (obtained using read_votes)
+        
+    pokemon_name: string
+        Pokemon name of interest
+    
+    Returns
+    -------
+    df_votes_pokemon: pandas DataFrame
+        DataFrame with Pokemon of interest votes in time.
+    """
+    
+    df_votes_pokemon = df_votes.query('vote=="' + pokemon_name + '"')
+    df_votes_pokemon = df_votes_pokemon.groupby(pd.Grouper(key='timestamp', freq='1h')).count()
+    df_votes_pokemon['timestamp'] = df_votes_pokemon.index
+    df_votes_pokemon['timestamp_h'] = df_votes_pokemon[['timestamp']].timestamp.dt.strftime('%H:%M')
+    df_votes_pokemon.index = np.arange(0, len(df_votes_pokemon))
+    
+    return df_votes_pokemon
+
+
 #%%            
 def get_pokeball_location():
     """
