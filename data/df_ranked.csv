@@ -1,0 +1,810 @@
+,name,votes,types,generation,family,sprite_source,generation_color,ranking_overall,ranking_generation
+734,Yungoos,0.0,Normal,7,Yungoos,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/734.png,#E89483,809,88.0
+266,Silcoon,0.0,Bug,3,Wurmple,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png,#9CD7C8,808,135.0
+603,Eelektrik,0.0,Electric,5,Tynamo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/603.png,#9FCADF,807,155.0
+574,Gothita,0.0,Psychic,5,Gothita,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png,#9FCADF,806,156.0
+343,Baltoy,1.0,Ground Psychic,3,Baltoy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png,#9CD7C8,805,134.0
+594,Alomomola,1.0,Water,5,Alomomola,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png,#9FCADF,804,152.0
+102,Exeggcute,1.0,Grass Psychic,1,Exeggcute,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png,#ACD36C,803,151.0
+504,Patrat,1.0,Normal,5,Patrat,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png,#9FCADF,802,153.0
+790,Cosmoem,1.0,Psychic,7,Cosmog,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png,#E89483,801,86.0
+732,Trumbeak,1.0,Normal Flying,7,Pikipek,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/732.png,#E89483,800,87.0
+451,Skorupi,1.0,Poison Bug,4,Skorupi,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png,#B7A3C3,799,107.0
+540,Sewaddle,1.0,Bug Grass,5,Sewaddle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/540.png,#9FCADF,798,154.0
+489,Phione,2.0,Water,4,Phione,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png,#B7A3C3,797,106.0
+788,Tapu-Fini,2.0,Water Fairy,7,Tapu-Fini,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png,#E89483,796,81.0
+688,Binacle,2.0,Rock Water,6,Binacle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/688.png,#DD608C,795,69.0
+787,Tapu-Bulu,2.0,Grass Fairy,7,Tapu-Bulu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png,#E89483,794,82.0
+723,Dartrix,2.0,Grass Flying,7,Rowlet,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/723.png,#E89483,793,83.0
+513,Pansear,2.0,Fire,5,Pansear,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png,#9FCADF,792,142.0
+645,Landorus,2.0,Ground Flying,5,Landorus,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png,#9FCADF,791,143.0
+664,Scatterbug,2.0,Bug,6,Scatterbug,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/664.png,#DD608C,790,70.0
+659,Bunnelby,2.0,Normal,6,Bunnelby,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png,#DD608C,789,71.0
+641,Tornadus,2.0,Flying,5,Tornadus,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png,#9FCADF,788,144.0
+543,Venipede,2.0,Bug Poison,5,Venipede,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png,#9FCADF,787,145.0
+546,Cottonee,2.0,Grass Fairy,5,Cottonee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png,#9FCADF,786,146.0
+616,Shelmet,2.0,Bug,5,Shelmet,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/616.png,#9FCADF,785,147.0
+118,Goldeen,2.0,Water,1,Goldeen,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png,#ACD36C,784,149.0
+578,Duosion,2.0,Psychic,5,Solosis,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png,#9FCADF,783,148.0
+592,Frillish,2.0,Water Ghost Water Ghost,5,Frillish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/592.png,#9FCADF,782,149.0
+515,Panpour,2.0,Water,5,Panpour,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png,#9FCADF,781,150.0
+740,Crabominable,2.0,Fighting Ice,7,Crabrawler,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png,#E89483,780,84.0
+692,Clauncher,2.0,Water,6,Clauncher,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/692.png,#DD608C,779,72.0
+588,Karrablast,2.0,Bug,5,Karrablast,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png,#9FCADF,778,151.0
+21,Spearow,2.0,Normal Flying,1,Spearow,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png,#ACD36C,777,150.0
+367,Huntail,2.0,Water,3,Clamperl,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png,#9CD7C8,776,129.0
+268,Cascoon,2.0,Bug,3,Wurmple,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png,#9CD7C8,775,130.0
+267,Beautifly,2.0,Bug Flying,3,Wurmple,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png,#9CD7C8,774,131.0
+307,Meditite,2.0,Fighting Psychic,3,Meditite,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png,#9CD7C8,773,132.0
+247,Pupitar,2.0,Rock Ground,2,Larvitar,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png,#DCD677,772,100.0
+339,Barboach,2.0,Water Ground,3,Barboach,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png,#9CD7C8,771,133.0
+751,Dewpider,2.0,Water Bug,7,Dewpider,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/751.png,#E89483,770,85.0
+682,Spritzee,3.0,Fairy,6,Spritzee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/682.png,#DD608C,769,66.0
+782,Jangmo-O,3.0,Dragon,7,Jangmo-o,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png,#E89483,768,74.0
+761,Bounsweet,3.0,Grass,7,Bounsweet,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/761.png,#E89483,767,75.0
+762,Steenee,3.0,Grass,7,Bounsweet,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/762.png,#E89483,766,76.0
+597,Ferroseed,3.0,Grass Steel,5,Ferroseed,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/597.png,#9FCADF,765,135.0
+657,Frogadier,3.0,Water,6,Froakie,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/657.png,#DD608C,764,67.0
+651,Quilladin,3.0,Grass,6,Chespin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/651.png,#DD608C,763,68.0
+639,Terrakion,3.0,Rock Fighting,5,Terrakion,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png,#9FCADF,762,136.0
+533,Gurdurr,3.0,Fighting,5,Timburr,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png,#9FCADF,761,137.0
+509,Purrloin,3.0,Dark,5,Purrloin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/509.png,#9FCADF,760,138.0
+629,Vullaby,3.0,Dark Flying,5,Vullaby,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png,#9FCADF,759,139.0
+290,Nincada,3.0,Bug Ground,3,Nincada,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png,#9CD7C8,758,126.0
+619,Mienfoo,3.0,Fighting,5,Mienfoo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png,#9FCADF,757,140.0
+532,Timburr,3.0,Fighting,5,Timburr,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png,#9FCADF,756,141.0
+767,Wimpod,3.0,Bug Water,7,Wimpod,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/767.png,#E89483,755,77.0
+364,Sealeo,3.0,Ice Water,3,Spheal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png,#9CD7C8,754,127.0
+431,Glameow,3.0,Normal,4,Glameow,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png,#B7A3C3,753,104.0
+480,Uxie,3.0,Psychic,4,Uxie,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png,#B7A3C3,752,105.0
+223,Remoraid,3.0,Water,2,Remoraid,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png,#DCD677,751,98.0
+188,Skiploom,3.0,Grass Flying,2,Hoppip,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png,#DCD677,750,99.0
+318,Carvanha,3.0,Water Dark,3,Carvanha,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png,#9CD7C8,749,128.0
+753,Fomantis,3.0,Grass,7,Fomantis,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/753.png,#E89483,748,78.0
+808,Meltan,3.0,Steel,7,Meltan,../images/pokeball.png,#E89483,747,79.0
+731,Pikipek,3.0,Normal Flying,7,Pikipek,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/731.png,#E89483,746,80.0
+600,Klang,4.0,Steel,5,Klink,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/600.png,#9FCADF,745,120.0
+564,Tirtouga,4.0,Water Rock,5,Tirtouga,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png,#9FCADF,744,121.0
+345,Lileep,4.0,Rock Grass,3,Lileep,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png,#9CD7C8,743,124.0
+562,Yamask,4.0,Ghost,5,Yamask,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png,#9FCADF,742,122.0
+413,Wormadam,4.0,Bug Grass Bug Steel,4,Burmy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png,#B7A3C3,741,103.0
+783,Hakamo-O,4.0,Dragon Fighting,7,Jangmo-o,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/783.png,#E89483,740,71.0
+786,Tapu-Lele,4.0,Psychic Fairy,7,Tapu-Lele,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/786.png,#E89483,739,72.0
+536,Palpitoad,4.0,Water Ground,5,Tympole,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png,#9FCADF,738,123.0
+634,Zweilous,4.0,Dark Dragon,5,Deino,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png,#9FCADF,737,124.0
+591,Amoonguss,4.0,Grass Poison,5,Foongus,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png,#9FCADF,736,125.0
+506,Lillipup,4.0,Normal,5,Lillipup,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png,#9FCADF,735,126.0
+735,Gumshoos,4.0,Normal,7,Yungoos,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png,#E89483,734,73.0
+640,Virizion,4.0,Grass Fighting,5,Virizion,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png,#9FCADF,733,127.0
+522,Blitzle,4.0,Electric,5,Blitzle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png,#9FCADF,732,128.0
+520,Tranquill,4.0,Normal Flying,5,Pidove,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/520.png,#9FCADF,731,129.0
+296,Makuhita,4.0,Fighting,3,Makuhita,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png,#9CD7C8,730,125.0
+505,Watchog,4.0,Normal,5,Patrat,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png,#9FCADF,729,130.0
+660,Diggersby,4.0,Normal Ground,6,Bunnelby,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png,#DD608C,728,63.0
+524,Roggenrola,4.0,Rock,5,Roggenrola,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/524.png,#9FCADF,727,131.0
+516,Simipour,4.0,Water,5,Panpour,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png,#9FCADF,726,132.0
+517,Munna,4.0,Psychic,5,Munna,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png,#9FCADF,725,133.0
+669,Flabebe,4.0,Fairy,6,Flabebe,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669.png,#DD608C,724,64.0
+667,Litleo,4.0,Fire Normal,6,Litleo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/667.png,#DD608C,723,65.0
+642,Thundurus,4.0,Electric Flying,5,Thundurus,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png,#9FCADF,722,134.0
+512,Simisage,5.0,Grass,5,Pansage,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png,#9FCADF,721,108.0
+372,Shelgon,5.0,Dragon,3,Bagon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png,#9CD7C8,720,119.0
+165,Ledyba,5.0,Bug Flying,2,Ledyba,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png,#DCD677,719,93.0
+581,Swanna,5.0,Water Flying,5,Ducklett,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png,#9FCADF,718,109.0
+575,Gothorita,5.0,Psychic,5,Gothita,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/575.png,#9FCADF,717,110.0
+236,Tyrogue,5.0,Fighting,2,Tyrogue,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png,#DCD677,716,94.0
+240,Magby,5.0,Fire,2,Magby,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png,#DCD677,715,95.0
+521,Unfezant,5.0,Normal Flying Normal Flying,5,Pidove,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png,#9FCADF,714,111.0
+314,Illumise,5.0,Bug,3,Illumise,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png,#9CD7C8,713,120.0
+238,Smoochum,5.0,Ice Psychic,2,Smoochum,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png,#DCD677,712,96.0
+544,Whirlipede,5.0,Bug Poison,5,Venipede,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/544.png,#9FCADF,711,112.0
+481,Mesprit,5.0,Psychic,4,Mesprit,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png,#B7A3C3,710,101.0
+529,Drilbur,5.0,Ground,5,Drilbur,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png,#9FCADF,709,113.0
+294,Loudred,5.0,Normal,3,Whismur,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png,#9CD7C8,708,121.0
+174,Igglybuff,5.0,Normal Fairy,2,Igglybuff,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png,#DCD677,707,97.0
+440,Happiny,5.0,Normal,4,Happiny,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png,#B7A3C3,706,102.0
+293,Whismur,5.0,Normal,3,Whismur,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png,#9CD7C8,705,122.0
+269,Dustox,5.0,Bug Poison,3,Wurmple,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png,#9CD7C8,704,123.0
+585,Deerling,5.0,Normal Grass,5,Deerling,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png,#9FCADF,703,114.0
+550,Basculin,5.0,Water Water,5,Basculin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550.png,#9FCADF,702,115.0
+736,Grubbin,5.0,Bug,7,Grubbin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/736.png,#E89483,701,64.0
+626,Bouffalant,5.0,Normal,5,Bouffalant,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/626.png,#9FCADF,700,116.0
+670,Floette,5.0,Fairy,6,Flabebe,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670.png,#DD608C,699,59.0
+739,Crabrawler,5.0,Fighting,7,Crabrawler,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/739.png,#E89483,698,65.0
+590,Foongus,5.0,Grass Poison,5,Foongus,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png,#9FCADF,697,117.0
+746,Wishiwashi,5.0,Water,7,Wishiwashi,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/746.png,#E89483,696,66.0
+627,Rufflet,5.0,Normal Flying,5,Rufflet,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/627.png,#9FCADF,695,118.0
+755,Morelull,5.0,Grass Fairy,7,Morelull,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/755.png,#E89483,694,67.0
+749,Mudbray,5.0,Ground,7,Mudbray,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/749.png,#E89483,693,68.0
+769,Sandygast,5.0,Ghost Ground,7,Sandygast,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png,#E89483,692,69.0
+690,Skrelp,5.0,Poison Water,6,Skrelp,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/690.png,#DD608C,691,60.0
+671,Florges,5.0,Fairy,6,Flabebe,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png,#DD608C,690,61.0
+599,Klink,5.0,Steel,5,Klink,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png,#9FCADF,689,119.0
+764,Comfey,5.0,Fairy,7,Comfey,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png,#E89483,688,70.0
+721,Volcanion,5.0,Fire Water,6,Volcanion,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png,#DD608C,687,62.0
+173,Cleffa,6.0,Fairy,2,Cleffa,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png,#DCD677,686,92.0
+496,Servine,6.0,Grass,5,Snivy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png,#9FCADF,685,99.0
+449,Hippopotas,6.0,Ground,4,Hippopotas,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/449.png,#B7A3C3,684,96.0
+511,Pansage,6.0,Grass,5,Pansage,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png,#9FCADF,683,100.0
+436,Bronzor,6.0,Steel Psychic,4,Bronzor,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png,#B7A3C3,682,97.0
+434,Stunky,6.0,Poison Dark,4,Stunky,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png,#B7A3C3,681,98.0
+433,Chingling,6.0,Psychic,4,Chingling,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png,#B7A3C3,680,99.0
+583,Vanillish,6.0,Ice,5,Vanillite,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/583.png,#9FCADF,679,101.0
+410,Shieldon,6.0,Rock Steel,4,Shieldon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png,#B7A3C3,678,100.0
+377,Regirock,6.0,Rock,3,Regirock,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png,#9CD7C8,677,113.0
+30,Nidorina,6.0,Poison,1,Nidoran-F,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png,#ACD36C,676,148.0
+349,Feebas,6.0,Water,3,Feebas,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png,#9CD7C8,675,114.0
+338,Solrock,6.0,Rock Psychic,3,Solrock,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png,#9CD7C8,674,115.0
+765,Oranguru,6.0,Normal Psychic,7,Oranguru,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/765.png,#E89483,673,61.0
+274,Nuzleaf,6.0,Grass Dark,3,Seedot,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png,#9CD7C8,672,116.0
+271,Lombre,6.0,Water Grass,3,Lotad,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png,#9CD7C8,671,117.0
+776,Turtonator,6.0,Fire Dragon,7,Turtonator,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/776.png,#E89483,670,62.0
+729,Brionne,6.0,Water,7,Popplio,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/729.png,#E89483,669,63.0
+665,Spewpa,6.0,Bug,6,Scatterbug,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png,#DD608C,668,57.0
+256,Combusken,6.0,Fire Fighting,3,Torchic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png,#9CD7C8,667,118.0
+535,Tympole,6.0,Water,5,Tympole,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png,#9FCADF,666,102.0
+661,Fletchling,6.0,Normal Flying,6,Fletchling,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/661.png,#DD608C,665,58.0
+525,Boldore,6.0,Rock,5,Roggenrola,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png,#9FCADF,664,103.0
+602,Tynamo,6.0,Electric,5,Tynamo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/602.png,#9FCADF,663,104.0
+631,Heatmor,6.0,Fire,5,Heatmor,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png,#9FCADF,662,105.0
+624,Pawniard,6.0,Dark Steel,5,Pawniard,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/624.png,#9FCADF,661,106.0
+611,Fraxure,6.0,Dragon,5,Axew,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png,#9FCADF,660,107.0
+712,Bergmite,7.0,Ice,6,Bergmite,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/712.png,#DD608C,659,55.0
+84,Doduo,7.0,Normal Flying,1,Doduo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png,#ACD36C,658,146.0
+29,Nidoran-F,7.0,Poison,1,Nidoran-F,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png,#ACD36C,657,147.0
+438,Bonsly,7.0,Rock,4,Bonsly,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png,#B7A3C3,656,90.0
+539,Sawk,7.0,Fighting,5,Sawk,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png,#9FCADF,655,91.0
+360,Wynaut,7.0,Psychic,3,Wynaut,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png,#9CD7C8,654,111.0
+414,Mothim,7.0,Bug Flying,4,Burmy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png,#B7A3C3,653,91.0
+705,Sliggoo,7.0,Dragon,6,Goomy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/705.png,#DD608C,652,56.0
+412,Burmy,7.0,Bug Bug,4,Burmy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png,#B7A3C3,651,92.0
+548,Petilil,7.0,Grass,5,Petilil,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png,#9FCADF,650,92.0
+406,Budew,7.0,Grass Poison,4,Budew,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png,#B7A3C3,649,93.0
+368,Gorebyss,7.0,Water,3,Clamperl,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png,#9CD7C8,648,112.0
+801,Magearna,7.0,Steel Fairy,7,Magearna,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png,#E89483,647,59.0
+397,Staravia,7.0,Normal Flying,4,Starly,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png,#B7A3C3,646,94.0
+557,Dwebble,7.0,Bug Rock,5,Dwebble,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png,#9FCADF,645,93.0
+485,Heatran,7.0,Fire Steel,4,Heatran,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/485.png,#B7A3C3,644,95.0
+204,Pineco,7.0,Bug,2,Pineco,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png,#DCD677,643,91.0
+766,Passimian,7.0,Fighting,7,Passimian,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/766.png,#E89483,642,60.0
+638,Cobalion,7.0,Steel Fighting,5,Cobalion,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/638.png,#9FCADF,641,94.0
+519,Pidove,7.0,Normal Flying,5,Pidove,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png,#9FCADF,640,95.0
+518,Musharna,7.0,Psychic,5,Munna,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png,#9FCADF,639,96.0
+507,Herdier,7.0,Normal,5,Lillipup,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png,#9FCADF,638,97.0
+499,Pignite,7.0,Fire Fighting,5,Tepig,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/499.png,#9FCADF,637,98.0
+806,Blacephalon,8.0,Fire Ghost,7,Blacephalon,../images/pokeball.png,#E89483,636,56.0
+400,Bibarel,8.0,Normal Water,4,Bidoof,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png,#B7A3C3,635,87.0
+210,Granbull,8.0,Fairy,2,Snubbull,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png,#DCD677,634,89.0
+366,Clamperl,8.0,Water,3,Clamperl,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png,#9CD7C8,633,105.0
+514,Simisear,8.0,Fire,5,Pansear,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png,#9FCADF,632,86.0
+577,Solosis,8.0,Psychic,5,Solosis,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/577.png,#9FCADF,631,87.0
+276,Taillow,8.0,Normal Flying,3,Taillow,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png,#9CD7C8,630,106.0
+420,Cherubi,8.0,Grass,4,Cherubi,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png,#B7A3C3,629,88.0
+622,Golett,8.0,Ground Ghost,5,Golett,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/622.png,#9FCADF,628,88.0
+309,Electrike,8.0,Electric,3,Electrike,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png,#9CD7C8,627,107.0
+757,Salandit,8.0,Poison Fire,7,Salandit,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/757.png,#E89483,626,57.0
+347,Anorith,8.0,Rock Bug,3,Anorith,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png,#9CD7C8,625,108.0
+698,Amaura,8.0,Rock Ice,6,Amaura,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png,#DD608C,624,53.0
+375,Metang,8.0,Steel Psychic,3,Beldum,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png,#9CD7C8,623,109.0
+337,Lunatone,8.0,Rock Psychic,3,Lunatone,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png,#9CD7C8,622,110.0
+613,Cubchoo,8.0,Ice,5,Cubchoo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/613.png,#9FCADF,621,89.0
+163,Hoothoot,8.0,Normal Flying,2,Hoothoot,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png,#DCD677,620,90.0
+456,Finneon,8.0,Water,4,Finneon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png,#B7A3C3,619,89.0
+537,Seismitoad,8.0,Water Ground,5,Tympole,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png,#9FCADF,618,90.0
+720,Hoopa,8.0,Psychic Ghost Psychic Dark,6,Hoopa,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720.png,#DD608C,617,54.0
+119,Seaking,8.0,Water,1,Goldeen,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png,#ACD36C,616,145.0
+797,Celesteela,8.0,Steel Flying,7,Celesteela,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/797.png,#E89483,615,58.0
+288,Vigoroth,9.0,Normal,3,Slakoth,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png,#9CD7C8,614,102.0
+803,Poipole,9.0,Poison,7,Poipole,../images/pokeball.png,#E89483,613,51.0
+777,Togedemaru,9.0,Electric Steel,7,Togedemaru,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png,#E89483,612,52.0
+770,Palossand,9.0,Ghost Ground,7,Sandygast,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png,#E89483,611,53.0
+23,Ekans,9.0,Poison,1,Ekans,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png,#ACD36C,610,142.0
+313,Volbeat,9.0,Bug,3,Volbeat,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png,#9CD7C8,609,103.0
+116,Horsea,9.0,Water,1,Horsea,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png,#ACD36C,608,143.0
+370,Luvdisc,9.0,Water,3,Luvdisc,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png,#9CD7C8,607,104.0
+662,Fletchinder,9.0,Fire Flying,6,Fletchling,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/662.png,#DD608C,606,50.0
+444,Gabite,9.0,Dragon Ground,4,Gible,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png,#B7A3C3,605,82.0
+684,Swirlix,9.0,Fairy,6,Swirlix,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/684.png,#DD608C,604,51.0
+439,Mime-Jr,9.0,Psychic Fairy,4,Mime-Jr,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png,#B7A3C3,603,83.0
+538,Throh,9.0,Fighting,5,Throh,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png,#9FCADF,602,85.0
+72,Tentacool,9.0,Water Poison,1,Tentacool,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png,#ACD36C,601,144.0
+488,Cresselia,9.0,Psychic,4,Cresselia,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png,#B7A3C3,600,84.0
+804,Naganadel,9.0,Poison Dragon,7,Poipole,../images/pokeball.png,#E89483,599,54.0
+408,Cranidos,9.0,Rock,4,Cranidos,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png,#B7A3C3,598,85.0
+683,Aromatisse,9.0,Fairy,6,Spritzee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/683.png,#DD608C,597,52.0
+401,Kricketot,9.0,Bug,4,Kricketot,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png,#B7A3C3,596,86.0
+737,Charjabug,9.0,Bug Electric,7,Grubbin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/737.png,#E89483,595,55.0
+580,Ducklett,10.0,Water Flying,5,Ducklett,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png,#9FCADF,594,78.0
+772,Type-Null,10.0,Normal,7,Type-Null,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/772.png,#E89483,593,43.0
+527,Woobat,10.0,Psychic Flying,5,Woobat,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/527.png,#9FCADF,592,79.0
+779,Bruxish,10.0,Water Psychic,7,Bruxish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png,#E89483,591,44.0
+510,Liepard,10.0,Dark,5,Purrloin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png,#9FCADF,590,80.0
+785,Tapu-Koko,10.0,Electric Fairy,7,Tapu-Koko,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png,#E89483,589,45.0
+298,Azurill,10.0,Normal Fairy,3,Azurill,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png,#9CD7C8,588,100.0
+299,Nosepass,10.0,Rock,3,Nosepass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png,#9CD7C8,587,101.0
+680,Doublade,10.0,Steel Ghost,6,Honedge,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/680.png,#DD608C,586,48.0
+459,Snover,10.0,Grass Ice,4,Snover,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png,#B7A3C3,585,79.0
+756,Shiinotic,10.0,Grass Fairy,7,Morelull,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png,#E89483,584,46.0
+614,Beartic,10.0,Ice,5,Cubchoo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png,#9FCADF,583,81.0
+552,Krokorok,10.0,Ground Dark,5,Sandile,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png,#9FCADF,582,82.0
+713,Avalugg,10.0,Ice,6,Bergmite,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png,#DD608C,581,49.0
+554,Darumaka,10.0,Fire,5,Darumaka,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png,#9FCADF,580,83.0
+566,Archen,10.0,Rock Flying,5,Archen,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/566.png,#9FCADF,579,84.0
+795,Pheromosa,10.0,Bug Fighting,7,Pheromosa,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/795.png,#E89483,578,47.0
+733,Toucannon,10.0,Normal Flying,7,Pikipek,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png,#E89483,577,48.0
+726,Torracat,10.0,Fire,7,Litten,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/726.png,#E89483,576,49.0
+789,Cosmog,10.0,Psychic,7,Cosmog,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png,#E89483,575,50.0
+458,Mantyke,10.0,Water Flying,4,Mantyke,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/458.png,#B7A3C3,574,80.0
+432,Purugly,10.0,Normal,4,Glameow,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png,#B7A3C3,573,81.0
+666,Vivillon,11.0,Bug Flying,6,Scatterbug,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666.png,#DD608C,572,42.0
+741,Oricorio,11.0,Fire Flying Ghost Flying,7,Oricorio,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741.png,#E89483,571,38.0
+541,Swadloon,11.0,Bug Grass,5,Sewaddle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/541.png,#9FCADF,570,77.0
+388,Grotle,11.0,Grass,4,Turtwig,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png,#B7A3C3,569,77.0
+656,Froakie,11.0,Water,6,Froakie,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png,#DD608C,568,43.0
+694,Helioptile,11.0,Electric Normal,6,Helioptile,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/694.png,#DD608C,567,44.0
+696,Tyrunt,11.0,Rock Dragon,6,Tyrunt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/696.png,#DD608C,566,45.0
+759,Stufful,11.0,Normal Fighting,7,Stufful,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/759.png,#E89483,565,39.0
+718,Zygarde,11.0,Dragon Ground,6,Zygarde,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png,#DD608C,564,46.0
+703,Carbink,11.0,Rock Fairy,6,Carbink,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/703.png,#DD608C,563,47.0
+793,Nihilego,11.0,Rock Poison,7,Nihilego,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/793.png,#E89483,562,40.0
+792,Lunala,11.0,Psychic Ghost,7,Cosmog,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png,#E89483,561,41.0
+378,Regice,11.0,Ice,3,Regice,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png,#9CD7C8,560,99.0
+394,Prinplup,11.0,Water,4,Piplup,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png,#B7A3C3,559,78.0
+117,Seadra,11.0,Water,1,Horsea,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png,#ACD36C,558,141.0
+798,Kartana,11.0,Grass Steel,7,Kartana,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png,#E89483,557,42.0
+167,Spinarak,11.0,Bug Poison,2,Spinarak,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png,#DCD677,556,88.0
+265,Wurmple,12.0,Bug,3,Wurmple,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png,#9CD7C8,555,97.0
+100,Voltorb,12.0,Electric,1,Voltorb,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png,#ACD36C,554,138.0
+528,Swoobat,12.0,Psychic Flying,5,Woobat,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png,#9FCADF,553,74.0
+161,Sentret,12.0,Normal,2,Sentret,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png,#DCD677,552,86.0
+70,Weepinbell,12.0,Grass Poison,1,Bellsprout,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png,#ACD36C,551,139.0
+676,Furfrou,12.0,Normal,6,Furfrou,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676.png,#DD608C,550,40.0
+689,Barbaracle,12.0,Rock Water,6,Binacle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/689.png,#DD608C,549,41.0
+605,Elgyem,12.0,Psychic,5,Elgyem,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png,#9FCADF,548,75.0
+608,Lampent,12.0,Ghost Fire,5,Litwick,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png,#9FCADF,547,76.0
+457,Lumineon,12.0,Water,4,Finneon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png,#B7A3C3,546,74.0
+42,Golbat,12.0,Poison Flying,1,Zubat,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png,#ACD36C,545,140.0
+455,Carnivine,12.0,Grass,4,Carnivine,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png,#B7A3C3,544,75.0
+738,Vikavolt,12.0,Bug Electric,7,Grubbin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png,#E89483,543,36.0
+450,Hippowdon,12.0,Ground,4,Hippopotas,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png,#B7A3C3,542,76.0
+192,Sunflora,12.0,Grass,2,Sunkern,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png,#DCD677,541,87.0
+791,Solgaleo,12.0,Psychic Steel,7,Cosmog,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/791.png,#E89483,540,37.0
+353,Shuppet,12.0,Ghost,3,Shuppet,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png,#9CD7C8,539,98.0
+297,Hariyama,13.0,Fighting,3,Makuhita,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png,#9CD7C8,538,96.0
+168,Ariados,13.0,Bug Poison,2,Spinarak,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png,#DCD677,537,83.0
+139,Omastar,13.0,Rock Water,1,Omanyte,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png,#ACD36C,536,135.0
+221,Piloswine,13.0,Ice Ground,2,Swinub,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png,#DCD677,535,84.0
+101,Electrode,13.0,Electric,1,Voltorb,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png,#ACD36C,534,136.0
+218,Slugma,13.0,Fire,2,Slugma,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png,#DCD677,533,85.0
+482,Azelf,13.0,Psychic,4,Azelf,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png,#B7A3C3,532,73.0
+809,Melmetal,13.0,Steel,7,Meltan,../images/pokeball.png,#E89483,531,32.0
+582,Vanillite,13.0,Ice,5,Vanillite,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png,#9FCADF,530,70.0
+14,Kakuna,13.0,Bug Poison,1,Weedle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png,#ACD36C,529,137.0
+630,Mandibuzz,13.0,Dark Flying,5,Vullaby,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png,#9FCADF,528,71.0
+632,Durant,13.0,Bug Steel,5,Durant,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/632.png,#9FCADF,527,72.0
+775,Komala,13.0,Normal,7,Komala,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/775.png,#E89483,526,33.0
+747,Mareanie,13.0,Poison Water,7,Mareanie,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/747.png,#E89483,525,34.0
+805,Stakataka,13.0,Rock Steel,7,Stakataka,../images/pokeball.png,#E89483,524,35.0
+633,Deino,13.0,Dark Dragon,5,Deino,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png,#9FCADF,523,73.0
+714,Noibat,13.0,Flying Dragon,6,Noibat,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/714.png,#DD608C,522,38.0
+693,Clawitzer,13.0,Water,6,Clauncher,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/693.png,#DD608C,521,39.0
+672,Skiddo,14.0,Grass,6,Skiddo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/672.png,#DD608C,520,37.0
+191,Sunkern,14.0,Grass,2,Sunkern,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png,#DCD677,519,81.0
+415,Combee,14.0,Bug Flying,4,Combee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png,#B7A3C3,518,70.0
+187,Hoppip,14.0,Grass Flying,2,Hoppip,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png,#DCD677,517,82.0
+750,Mudsdale,14.0,Ground,7,Mudbray,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png,#E89483,516,30.0
+402,Kricketune,14.0,Bug,4,Kricketot,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png,#B7A3C3,515,71.0
+396,Starly,14.0,Normal Flying,4,Starly,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png,#B7A3C3,514,72.0
+647,Keldeo,14.0,Water Fighting,5,Keldeo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png,#9FCADF,513,69.0
+273,Seedot,14.0,Grass,3,Seedot,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png,#9CD7C8,512,95.0
+784,Kommo-O,14.0,Dragon Fighting,7,Jangmo-o,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png,#E89483,511,31.0
+85,Dodrio,14.0,Normal Flying,1,Doduo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png,#ACD36C,510,132.0
+88,Grimer,14.0,Poison Poison Dark,1,Grimer,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png,#ACD36C,509,133.0
+75,Graveler,14.0,Rock Ground Rock Electric,1,Geodude,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png,#ACD36C,508,134.0
+799,Guzzlord,15.0,Dark Dragon,7,Guzzlord,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png,#E89483,507,28.0
+780,Drampa,15.0,Normal Dragon,7,Drampa,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/780.png,#E89483,506,29.0
+138,Omanyte,15.0,Rock Water,1,Omanyte,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png,#ACD36C,505,131.0
+534,Conkeldurr,15.0,Fighting,5,Timburr,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png,#9FCADF,504,68.0
+435,Skuntank,15.0,Poison Dark,4,Stunky,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png,#B7A3C3,503,68.0
+242,Blissey,15.0,Normal,2,Happiny,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png,#DCD677,502,80.0
+422,Shellos,15.0,Water Water,4,Shellos,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png,#B7A3C3,501,69.0
+379,Registeel,16.0,Steel,3,Registeel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png,#9CD7C8,500,91.0
+341,Corphish,16.0,Water,3,Corphish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png,#9CD7C8,499,92.0
+617,Accelgor,16.0,Bug,5,Shelmet,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png,#9FCADF,498,64.0
+719,Diancie,16.0,Rock Fairy,6,Diancie,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png,#DD608C,497,36.0
+615,Cryogonal,16.0,Ice,5,Cryogonal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png,#9FCADF,496,65.0
+476,Probopass,16.0,Rock Steel,4,Nosepass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png,#B7A3C3,495,66.0
+551,Sandile,16.0,Ground Dark,5,Sandile,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png,#9FCADF,494,66.0
+576,Gothitelle,16.0,Psychic,5,Gothita,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png,#9FCADF,493,67.0
+427,Buneary,16.0,Normal,4,Buneary,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png,#B7A3C3,492,67.0
+329,Vibrava,16.0,Ground Dragon,3,Trapinch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png,#9CD7C8,491,93.0
+146,Moltres,16.0,Fire Flying,1,Moltres,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png,#ACD36C,490,130.0
+316,Gulpin,16.0,Poison,3,Gulpin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png,#9CD7C8,489,94.0
+807,Zeraora,17.0,Electric,7,Zeraora,../images/pokeball.png,#E89483,488,27.0
+371,Bagon,17.0,Dragon,3,Bagon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png,#9CD7C8,487,90.0
+621,Druddigon,17.0,Dragon,5,Druddigon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png,#9FCADF,486,61.0
+526,Gigalith,17.0,Rock,5,Roggenrola,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png,#9FCADF,485,62.0
+237,Hitmontop,17.0,Fighting,2,Tyrogue,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png,#DCD677,484,79.0
+610,Axew,17.0,Dragon,5,Axew,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png,#9FCADF,483,63.0
+278,Wingull,18.0,Water Flying,3,Wingull,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png,#9CD7C8,482,87.0
+11,Metapod,18.0,Bug,1,Caterpie,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png,#ACD36C,481,127.0
+201,Unown,18.0,Psychic,2,Unown,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png,#DCD677,480,78.0
+32,Nidoran-M,18.0,Poison,1,Nidoran-M,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png,#ACD36C,479,128.0
+96,Drowzee,18.0,Psychic,1,Drowzee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png,#ACD36C,478,129.0
+281,Kirlia,18.0,Psychic Fairy,3,Ralts,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png,#9CD7C8,477,88.0
+404,Luxio,18.0,Electric,4,Shinx,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png,#B7A3C3,476,65.0
+320,Wailmer,18.0,Water,3,Wailmer,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png,#9CD7C8,475,89.0
+794,Buzzwole,19.0,Bug Fighting,7,Buzzwole,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/794.png,#E89483,474,26.0
+20,Raticate,19.0,Normal Dark Normal,1,Rattata,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png,#ACD36C,473,122.0
+463,Lickilicky,19.0,Normal,4,Lickitung,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png,#B7A3C3,472,62.0
+699,Aurorus,19.0,Rock Ice,6,Amaura,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/699.png,#DD608C,471,34.0
+636,Larvesta,19.0,Bug Fire,5,Larvesta,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png,#9FCADF,470,60.0
+49,Venomoth,19.0,Bug Poison,1,Venonat,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png,#ACD36C,469,123.0
+24,Arbok,19.0,Poison,1,Ekans,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png,#ACD36C,468,124.0
+90,Shellder,19.0,Water,1,Shellder,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png,#ACD36C,467,125.0
+71,Victreebel,19.0,Grass Poison,1,Bellsprout,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png,#ACD36C,466,126.0
+305,Lairon,19.0,Steel Rock,3,Aron,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png,#9CD7C8,465,84.0
+315,Roselia,19.0,Grass Poison,3,Budew,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png,#9CD7C8,464,85.0
+465,Tangrowth,19.0,Grass,4,Tangela,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png,#B7A3C3,463,63.0
+668,Pyroar,19.0,Fire Normal,6,Litleo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/668.png,#DD608C,462,35.0
+344,Claydol,19.0,Ground Psychic,3,Baltoy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png,#9CD7C8,461,86.0
+411,Bastiodon,19.0,Rock Steel,4,Shieldon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png,#B7A3C3,460,64.0
+464,Rhyperior,20.0,Ground Rock,4,Rhyhorn,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png,#B7A3C3,459,61.0
+308,Medicham,20.0,Fighting Psychic,3,Meditite,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png,#9CD7C8,458,82.0
+565,Carracosta,20.0,Water Rock,5,Tirtouga,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png,#9FCADF,457,57.0
+674,Pancham,20.0,Fighting,6,Pancham,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/674.png,#DD608C,456,32.0
+374,Beldum,20.0,Steel Psychic,3,Beldum,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png,#9CD7C8,455,83.0
+13,Weedle,20.0,Bug Poison,1,Weedle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png,#ACD36C,454,119.0
+744,Rockruff,20.0,Rock,7,Rockruff,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/744.png,#E89483,453,25.0
+111,Rhyhorn,20.0,Ground Rock,1,Rhyhorn,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png,#ACD36C,452,120.0
+140,Kabuto,20.0,Rock Water,1,Kabuto,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png,#ACD36C,451,121.0
+606,Beheeyem,20.0,Psychic,5,Elgyem,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/606.png,#9FCADF,450,58.0
+652,Chesnaught,20.0,Grass Fighting,6,Chespin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png,#DD608C,449,33.0
+542,Leavanny,20.0,Bug Grass,5,Sewaddle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png,#9FCADF,448,59.0
+685,Slurpuff,21.0,Fairy,6,Swirlix,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png,#DD608C,447,29.0
+796,Xurkitree,21.0,Electric,7,Xurkitree,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/796.png,#E89483,446,24.0
+322,Numel,21.0,Fire Ground,3,Numel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png,#9CD7C8,445,77.0
+176,Togetic,21.0,Fairy Flying,2,Togepi,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png,#DCD677,444,73.0
+716,Xerneas,21.0,Fairy,6,Xerneas,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png,#DD608C,443,30.0
+56,Mankey,21.0,Fighting,1,Mankey,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png,#ACD36C,442,116.0
+686,Inkay,21.0,Dark Psychic,6,Inkay,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/686.png,#DD608C,441,31.0
+437,Bronzong,21.0,Steel Psychic,4,Bronzor,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png,#B7A3C3,440,60.0
+646,Kyurem,21.0,Dragon Ice,5,Kyurem,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png,#9FCADF,439,55.0
+209,Snubbull,21.0,Fairy,2,Snubbull,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png,#DCD677,438,74.0
+558,Crustle,21.0,Bug Rock,5,Dwebble,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png,#9FCADF,437,56.0
+332,Cacturne,21.0,Grass Dark,3,Cacnea,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png,#9CD7C8,436,78.0
+326,Grumpig,21.0,Psychic,3,Spoink,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png,#9CD7C8,435,79.0
+234,Stantler,21.0,Normal,2,Stantler,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png,#DCD677,434,75.0
+259,Marshtomp,21.0,Water Ground,3,Mudkip,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png,#9CD7C8,433,80.0
+159,Croconaw,21.0,Water,2,Totodile,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png,#DCD677,432,76.0
+22,Fearow,21.0,Normal Flying,1,Spearow,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png,#ACD36C,431,117.0
+170,Chinchou,21.0,Water Electric,2,Chinchou,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png,#DCD677,430,77.0
+336,Seviper,21.0,Poison,3,Seviper,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png,#9CD7C8,429,81.0
+120,Staryu,21.0,Water,1,Staryu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png,#ACD36C,428,118.0
+177,Natu,22.0,Psychic Flying,2,Natu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png,#DCD677,427,71.0
+328,Trapinch,22.0,Ground,3,Trapinch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png,#9CD7C8,426,73.0
+356,Dusclops,22.0,Ghost,3,Duskull,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png,#9CD7C8,425,74.0
+193,Yanma,22.0,Bug Flying,2,Yanma,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png,#DCD677,424,72.0
+317,Swalot,22.0,Poison,3,Gulpin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png,#9CD7C8,423,75.0
+409,Rampardos,22.0,Rock,4,Cranidos,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png,#B7A3C3,422,59.0
+283,Surskit,22.0,Bug Water,3,Surskit,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png,#9CD7C8,421,76.0
+46,Paras,22.0,Bug Grass,1,Paras,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png,#ACD36C,420,115.0
+33,Nidorino,23.0,Poison,1,Nidoran-M,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png,#ACD36C,419,111.0
+31,Nidoqueen,23.0,Poison Ground,1,Nidoran-F,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png,#ACD36C,418,112.0
+421,Cherrim,23.0,Grass,4,Cherubi,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png,#B7A3C3,417,58.0
+287,Slakoth,23.0,Normal,3,Slakoth,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png,#9CD7C8,416,69.0
+66,Machop,23.0,Fighting,1,Machop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png,#ACD36C,415,113.0
+742,Cutiefly,23.0,Bug Fairy,7,Cutiefly,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/742.png,#E89483,414,22.0
+67,Machoke,23.0,Fighting,1,Machop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png,#ACD36C,413,114.0
+653,Fennekin,23.0,Fire,6,Fennekin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png,#DD608C,412,28.0
+239,Elekid,23.0,Electric,2,Elekid,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png,#DCD677,411,68.0
+572,Minccino,23.0,Normal,5,Minccino,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png,#9FCADF,410,52.0
+523,Zebstrika,23.0,Electric,5,Blitzle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/523.png,#9FCADF,409,53.0
+800,Necrozma,23.0,Psychic,7,Necrozma,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png,#E89483,408,23.0
+593,Jellicent,23.0,Water Ghost Water Ghost,5,Frillish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png,#9FCADF,407,54.0
+311,Plusle,23.0,Electric,3,Plusle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png,#9CD7C8,406,70.0
+211,Qwilfish,23.0,Water Poison,2,Qwilfish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png,#DCD677,405,69.0
+331,Cacnea,23.0,Grass,3,Cacnea,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png,#9CD7C8,404,71.0
+340,Whiscash,23.0,Water Ground,3,Barboach,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png,#9CD7C8,403,72.0
+219,Magcargo,23.0,Fire Rock,2,Slugma,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png,#DCD677,402,70.0
+284,Masquerain,24.0,Bug Flying,3,Surskit,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png,#9CD7C8,401,67.0
+781,Dhelmise,24.0,Ghost Grass,7,Dhelmise,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/781.png,#E89483,400,21.0
+691,Dragalge,24.0,Poison Dragon,6,Skrelp,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/691.png,#DD608C,399,26.0
+312,Minun,24.0,Electric,3,Minun,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png,#9CD7C8,398,68.0
+711,Gourgeist,24.0,Ghost Grass,6,Pumpkaboo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/711.png,#DD608C,397,27.0
+460,Abomasnow,25.0,Grass Ice,4,Snover,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png,#B7A3C3,396,57.0
+752,Araquanid,25.0,Water Bug,7,Dewpider,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/752.png,#E89483,395,19.0
+358,Chimecho,25.0,Psychic,3,Chingling,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png,#9CD7C8,394,65.0
+763,Tsareena,25.0,Grass,7,Bounsweet,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png,#E89483,393,20.0
+695,Heliolisk,25.0,Electric Normal,6,Helioptile,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/695.png,#DD608C,392,25.0
+333,Swablu,25.0,Normal Flying,3,Swablu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png,#9CD7C8,391,66.0
+589,Escavalier,25.0,Bug Steel,5,Karrablast,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/589.png,#9FCADF,390,51.0
+51,Dugtrio,26.0,Ground Ground Steel,1,Diglett,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png,#ACD36C,389,110.0
+467,Magmortar,26.0,Fire,4,Magby,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png,#B7A3C3,388,55.0
+728,Popplio,26.0,Water,7,Popplio,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/728.png,#E89483,387,17.0
+295,Exploud,26.0,Normal,3,Whismur,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png,#9CD7C8,386,63.0
+754,Lurantis,26.0,Grass,7,Fomantis,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png,#E89483,385,18.0
+348,Armaldo,26.0,Rock Bug,3,Anorith,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png,#9CD7C8,384,64.0
+416,Vespiquen,26.0,Bug Flying,4,Combee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png,#B7A3C3,383,56.0
+490,Manaphy,27.0,Water,4,Manaphy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png,#B7A3C3,382,53.0
+291,Ninjask,27.0,Bug Flying,3,Nincada,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png,#9CD7C8,381,60.0
+48,Venonat,27.0,Bug Poison,1,Venonat,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png,#ACD36C,380,105.0
+508,Stoutland,27.0,Normal,5,Lillipup,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png,#9FCADF,379,49.0
+19,Rattata,27.0,Normal Dark Normal,1,Rattata,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png,#ACD36C,378,106.0
+285,Shroomish,27.0,Grass,3,Shroomish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png,#9CD7C8,377,61.0
+226,Mantine,27.0,Water Flying,2,Mantyke,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png,#DCD677,376,67.0
+618,Stunfisk,27.0,Ground Electric,5,Stunfisk,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618.png,#9FCADF,375,50.0
+361,Snorunt,27.0,Ice,3,Snorunt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png,#9CD7C8,374,62.0
+92,Gastly,27.0,Ghost Poison,1,Gastly,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png,#ACD36C,373,107.0
+86,Seel,27.0,Water,1,Seel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png,#ACD36C,372,108.0
+391,Monferno,27.0,Fire Fighting,4,Chimchar,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png,#B7A3C3,371,54.0
+69,Bellsprout,27.0,Grass Poison,1,Bellsprout,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png,#ACD36C,370,109.0
+649,Genesect,28.0,Bug Steel,5,Genesect,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png,#9FCADF,369,48.0
+261,Poochyena,28.0,Dark,3,Poochyena,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png,#9CD7C8,368,58.0
+702,Dedenne,28.0,Electric Fairy,6,Dedenne,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png,#DD608C,367,21.0
+10,Caterpie,28.0,Bug,1,Caterpie,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png,#ACD36C,366,104.0
+708,Phantump,28.0,Ghost Grass,6,Phantump,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/708.png,#DD608C,365,22.0
+352,Kecleon,28.0,Normal,3,Kecleon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png,#9CD7C8,364,59.0
+679,Honedge,28.0,Steel Ghost,6,Honedge,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png,#DD608C,363,23.0
+675,Pangoro,28.0,Fighting Dark,6,Pancham,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/675.png,#DD608C,362,24.0
+182,Bellossom,28.0,Grass,2,Oddish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png,#DCD677,361,66.0
+650,Chespin,29.0,Grass,6,Chespin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/650.png,#DD608C,360,19.0
+275,Shiftry,29.0,Grass Dark,3,Seedot,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png,#9CD7C8,359,57.0
+620,Mienshao,29.0,Fighting,5,Mienfoo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png,#9FCADF,358,46.0
+802,Marshadow,29.0,Fighting Ghost,7,Marshadow,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png,#E89483,357,16.0
+584,Vanilluxe,29.0,Ice,5,Vanillite,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png,#9FCADF,356,47.0
+228,Houndour,29.0,Dark Fire,2,Houndour,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png,#DCD677,355,65.0
+486,Regigigas,29.0,Normal,4,Regigigas,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png,#B7A3C3,354,52.0
+709,Trevenant,29.0,Ghost Grass,6,Phantump,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/709.png,#DD608C,353,20.0
+301,Delcatty,30.0,Normal,3,Skitty,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png,#9CD7C8,352,54.0
+205,Forretress,30.0,Bug Steel,2,Pineco,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png,#DCD677,351,62.0
+73,Tentacruel,30.0,Water Poison,1,Tentacool,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png,#ACD36C,350,102.0
+279,Pelipper,30.0,Water Flying,3,Wingull,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png,#9CD7C8,349,55.0
+60,Poliwag,30.0,Water,1,Poliwag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png,#ACD36C,348,103.0
+166,Ledian,30.0,Bug Flying,2,Ledyba,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png,#DCD677,347,63.0
+207,Gligar,30.0,Ground Flying,2,Gligar,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png,#DCD677,346,64.0
+342,Crawdaunt,30.0,Water Dark,3,Corphish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png,#9CD7C8,345,56.0
+569,Garbodor,30.0,Poison,5,Trubbish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png,#9FCADF,344,45.0
+264,Linoone,31.0,Normal,3,Zigzagoon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png,#9CD7C8,343,53.0
+498,Tepig,31.0,Fire,5,Tepig,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png,#9FCADF,342,44.0
+97,Hypno,31.0,Psychic,1,Drowzee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png,#ACD36C,341,101.0
+424,Ambipom,31.0,Normal,4,Aipom,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png,#B7A3C3,340,50.0
+663,Talonflame,31.0,Fire Flying,6,Fletchling,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png,#DD608C,339,18.0
+183,Marill,31.0,Water Fairy,2,Azurill,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png,#DCD677,338,61.0
+725,Litten,31.0,Fire,7,Litten,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png,#E89483,337,15.0
+441,Chatot,31.0,Normal Flying,4,Chatot,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png,#B7A3C3,336,51.0
+164,Noctowl,32.0,Normal Flying,2,Hoothoot,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png,#DCD677,335,60.0
+47,Parasect,32.0,Bug Grass,1,Paras,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png,#ACD36C,334,97.0
+773,Silvally,32.0,Normal,7,Type-Null,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png,#E89483,333,13.0
+127,Pinsir,32.0,Bug Flying,1,Pinsir,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png,#ACD36C,332,98.0
+44,Gloom,32.0,Grass Poison,1,Oddish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png,#ACD36C,331,99.0
+555,Darmanitan,32.0,Fire Fire Psychic,5,Darumaka,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png,#9FCADF,330,41.0
+17,Pidgeotto,32.0,Normal Flying,1,Pidgey,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png,#ACD36C,329,100.0
+586,Sawsbuck,32.0,Normal Grass,5,Deerling,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png,#9FCADF,328,42.0
+774,Minior,32.0,Rock Flying,7,Minior,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png,#E89483,327,14.0
+601,Klinklang,32.0,Steel,5,Klink,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png,#9FCADF,326,43.0
+369,Relicanth,32.0,Water Rock,3,Relicanth,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png,#9CD7C8,325,52.0
+53,Persian,33.0,Normal Dark,1,Meowth,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png,#ACD36C,324,96.0
+325,Spoink,33.0,Psychic,3,Spoink,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png,#9CD7C8,323,48.0
+628,Braviary,33.0,Normal Flying,5,Rufflet,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/628.png,#9FCADF,322,40.0
+277,Swellow,33.0,Normal Flying,3,Taillow,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png,#9CD7C8,321,49.0
+319,Sharpedo,33.0,Water Dark,3,Carvanha,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png,#9CD7C8,320,50.0
+365,Walrein,33.0,Ice Water,3,Spheal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png,#9CD7C8,319,51.0
+687,Malamar,33.0,Dark Psychic,6,Inkay,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png,#DD608C,318,17.0
+758,Salazzle,33.0,Poison Fire,7,Salandit,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/758.png,#E89483,317,12.0
+217,Ursaring,34.0,Normal,2,Teddiursa,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png,#DCD677,316,57.0
+710,Pumpkaboo,34.0,Ghost Grass,6,Pumpkaboo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/710.png,#DD608C,315,16.0
+203,Girafarig,34.0,Normal Psychic,2,Girafarig,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png,#DCD677,314,58.0
+270,Lotad,34.0,Water Grass,3,Lotad,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png,#9CD7C8,313,46.0
+426,Drifblim,34.0,Ghost Flying,4,Drifloon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png,#B7A3C3,312,48.0
+484,Palkia,34.0,Water Dragon,4,Palkia,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png,#B7A3C3,311,49.0
+222,Corsola,34.0,Water Rock,2,Corsola,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png,#DCD677,310,59.0
+531,Audino,34.0,Normal Fairy,5,Audino,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png,#9FCADF,309,39.0
+40,Wigglytuff,34.0,Normal Fairy,1,Igglybuff,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png,#ACD36C,308,95.0
+362,Glalie,34.0,Ice,3,Snorunt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png,#9CD7C8,307,47.0
+189,Jumpluff,35.0,Grass Flying,2,Hoppip,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png,#DCD677,306,56.0
+717,Yveltal,35.0,Dark Flying,6,Yveltal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/717.png,#DD608C,305,15.0
+442,Spiritomb,35.0,Ghost Dark,4,Spiritomb,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png,#B7A3C3,304,45.0
+748,Toxapex,35.0,Poison Water,7,Mareanie,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png,#E89483,303,11.0
+493,Arceus,35.0,Normal,4,Arceus,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png,#B7A3C3,302,46.0
+443,Gible,35.0,Dragon Ground,4,Gible,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png,#B7A3C3,301,47.0
+648,Meloetta,36.0,Normal Psychic Normal Fighting,5,Meloetta,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png,#9FCADF,300,38.0
+760,Bewear,36.0,Normal Fighting,7,Stufful,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/760.png,#E89483,299,10.0
+351,Castform,36.0,Normal Ice,3,Castform,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png,#9CD7C8,298,45.0
+115,Kangaskhan,37.0,Normal,1,Kangaskhan,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png,#ACD36C,297,93.0
+673,Gogoat,37.0,Grass,6,Skiddo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/673.png,#DD608C,296,14.0
+41,Zubat,37.0,Poison Flying,1,Zubat,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png,#ACD36C,295,94.0
+563,Cofagrigus,37.0,Ghost,5,Yamask,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png,#9FCADF,294,37.0
+224,Octillery,37.0,Water,2,Remoraid,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png,#DCD677,293,55.0
+324,Torkoal,37.0,Fire,3,Torkoal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png,#9CD7C8,292,44.0
+124,Jynx,38.0,Ice Psychic,1,Smoochum,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png,#ACD36C,291,91.0
+74,Geodude,38.0,Rock Ground Rock Electric,1,Geodude,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png,#ACD36C,290,92.0
+225,Delibird,38.0,Ice Flying,2,Delibird,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png,#DCD677,289,54.0
+500,Emboar,38.0,Fire Fighting,5,Tepig,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png,#9FCADF,288,35.0
+327,Spinda,38.0,Normal,3,Spinda,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png,#9CD7C8,287,43.0
+643,Reshiram,38.0,Dragon Fire,5,Reshiram,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png,#9FCADF,286,36.0
+220,Swinub,39.0,Ice Ground,2,Swinub,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png,#DCD677,285,53.0
+36,Clefable,39.0,Fairy,1,Cleffa,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png,#ACD36C,284,90.0
+598,Ferrothorn,39.0,Grass Steel,5,Ferroseed,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png,#9FCADF,283,33.0
+469,Yanmega,39.0,Bug Flying,4,Yanma,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png,#B7A3C3,282,44.0
+644,Zekrom,39.0,Dragon Electric,5,Zekrom,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png,#9FCADF,281,34.0
+216,Teddiursa,40.0,Normal,2,Teddiursa,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png,#DCD677,280,52.0
+573,Cinccino,40.0,Normal,5,Minccino,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png,#9FCADF,279,32.0
+417,Pachirisu,40.0,Electric,4,Pachirisu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png,#B7A3C3,278,43.0
+743,Ribombee,41.0,Bug Fairy,7,Cutiefly,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png,#E89483,277,9.0
+530,Excadrill,41.0,Ground Steel,5,Drilbur,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png,#9FCADF,276,31.0
+655,Delphox,41.0,Fire Psychic,6,Fennekin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png,#DD608C,275,13.0
+243,Raikou,41.0,Electric,2,Raikou,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png,#DCD677,274,51.0
+16,Pidgey,42.0,Normal Flying,1,Pidgey,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png,#ACD36C,273,86.0
+323,Camerupt,42.0,Fire Ground,3,Numel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png,#9CD7C8,272,42.0
+452,Drapion,42.0,Poison Dark,4,Skorupi,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png,#B7A3C3,271,40.0
+98,Krabby,42.0,Water,1,Krabby,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png,#ACD36C,270,87.0
+125,Electabuzz,42.0,Electric,1,Elekid,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png,#ACD36C,269,88.0
+126,Magmar,42.0,Fire,1,Magby,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png,#ACD36C,268,89.0
+477,Dusknoir,42.0,Ghost,4,Duskull,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png,#B7A3C3,267,41.0
+419,Floatzel,42.0,Water,4,Buizel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png,#B7A3C3,266,42.0
+180,Flaaffy,43.0,Electric,2,Mareep,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png,#DCD677,265,50.0
+112,Rhydon,43.0,Ground Rock,1,Rhyhorn,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png,#ACD36C,264,85.0
+707,Klefki,44.0,Steel Fairy,6,Klefki,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/707.png,#DD608C,263,12.0
+35,Clefairy,44.0,Fairy,1,Cleffa,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png,#ACD36C,262,84.0
+561,Sigilyph,44.0,Psychic Flying,5,Sigilyph,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/561.png,#9FCADF,261,29.0
+355,Duskull,44.0,Ghost,3,Duskull,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png,#9CD7C8,260,41.0
+559,Scraggy,44.0,Dark Fighting,5,Scraggy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png,#9FCADF,259,30.0
+678,Meowstic,45.0,Psychic,6,Espurr,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png,#DD608C,258,11.0
+106,Hitmonlee,45.0,Fighting,1,Tyrogue,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png,#ACD36C,257,82.0
+76,Golem,45.0,Rock Ground Rock Electric,1,Geodude,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png,#ACD36C,256,83.0
+567,Archeops,46.0,Rock Flying,5,Archen,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png,#9FCADF,255,27.0
+587,Emolga,46.0,Electric Flying,5,Emolga,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png,#9FCADF,254,28.0
+95,Onix,46.0,Rock Ground,1,Onix,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png,#ACD36C,253,81.0
+346,Cradily,46.0,Rock Grass,3,Lileep,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png,#9CD7C8,252,40.0
+654,Braixen,46.0,Fire,6,Fennekin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png,#DD608C,251,10.0
+199,Slowking,46.0,Water Psychic,2,Slowpoke,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png,#DCD677,250,49.0
+50,Diglett,47.0,Ground Ground Steel,1,Diglett,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png,#ACD36C,249,79.0
+423,Gastrodon,47.0,Water Ground Water Ground,4,Shellos,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png,#B7A3C3,248,39.0
+114,Tangela,47.0,Grass,1,Tangela,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png,#ACD36C,247,80.0
+453,Croagunk,48.0,Poison Fighting,4,Croagunk,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png,#B7A3C3,246,38.0
+87,Dewgong,49.0,Water Ice,1,Seel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png,#ACD36C,245,78.0
+604,Eelektross,49.0,Electric,5,Tynamo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png,#9FCADF,244,26.0
+250,Ho-Oh,49.0,Fire Flying,2,Ho-Oh,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png,#DCD677,243,48.0
+771,Pyukumuku,49.0,Water,7,Pyukumuku,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/771.png,#E89483,242,8.0
+446,Munchlax,50.0,Normal,4,Munchlax,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png,#B7A3C3,241,37.0
+103,Exeggutor,50.0,Grass Psychic Grass Dragon,1,Exeggcute,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png,#ACD36C,240,75.0
+110,Weezing,50.0,Poison,1,Koffing,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png,#ACD36C,239,76.0
+52,Meowth,50.0,Normal Dark,1,Meowth,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png,#ACD36C,238,77.0
+178,Xatu,50.0,Psychic Flying,2,Natu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png,#DCD677,237,46.0
+246,Larvitar,50.0,Rock Ground,2,Larvitar,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png,#DCD677,236,47.0
+568,Trubbish,51.0,Poison,5,Trubbish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/568.png,#9FCADF,235,24.0
+142,Aerodactyl,51.0,Rock Flying,1,Aerodactyl,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png,#ACD36C,234,73.0
+77,Ponyta,51.0,Fire,1,Ponyta,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png,#ACD36C,233,74.0
+502,Dewott,51.0,Water,5,Oshawott,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png,#9FCADF,232,25.0
+730,Primarina,51.0,Water Fairy,7,Popplio,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png,#E89483,231,7.0
+107,Hitmonchan,52.0,Fighting,1,Tyrogue,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png,#ACD36C,230,72.0
+113,Chansey,53.0,Normal,1,Happiny,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png,#ACD36C,229,71.0
+704,Goomy,53.0,Dragon,6,Goomy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/704.png,#DD608C,228,9.0
+82,Magneton,54.0,Electric Steel,1,Magnemite,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png,#ACD36C,227,69.0
+241,Miltank,54.0,Normal,2,Miltank,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png,#DCD677,226,45.0
+128,Tauros,54.0,Normal,1,Tauros,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png,#ACD36C,225,70.0
+108,Lickitung,55.0,Normal,1,Lickitung,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png,#ACD36C,224,68.0
+235,Smeargle,55.0,Normal,2,Smeargle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png,#DCD677,223,44.0
+462,Magnezone,55.0,Electric Steel,4,Magnemite,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png,#B7A3C3,222,36.0
+91,Cloyster,56.0,Water Ice,1,Shellder,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png,#ACD36C,221,66.0
+244,Entei,56.0,Fire,2,Entei,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png,#DCD677,220,43.0
+62,Poliwrath,56.0,Water Fighting,1,Poliwag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png,#ACD36C,219,67.0
+263,Zigzagoon,56.0,Normal,3,Zigzagoon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png,#9CD7C8,218,39.0
+677,Espurr,57.0,Psychic,6,Espurr,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/677.png,#DD608C,217,8.0
+556,Maractus,57.0,Grass,5,Maractus,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png,#9FCADF,216,23.0
+727,Incineroar,58.0,Fire Dark,7,Litten,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png,#E89483,215,6.0
+12,Butterfree,58.0,Bug Flying,1,Caterpie,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png,#ACD36C,214,65.0
+57,Primeape,59.0,Fighting,1,Mankey,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png,#ACD36C,213,64.0
+172,Pichu,59.0,Electric,2,Pichu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png,#DCD677,212,42.0
+607,Litwick,60.0,Ghost Fire,5,Litwick,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png,#9FCADF,211,22.0
+185,Sudowoodo,60.0,Rock,2,Bonsly,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png,#DCD677,210,41.0
+55,Golduck,60.0,Water,1,Psyduck,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png,#ACD36C,209,63.0
+262,Mightyena,61.0,Dark,3,Poochyena,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png,#9CD7C8,208,37.0
+81,Magnemite,61.0,Electric Steel,1,Magnemite,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png,#ACD36C,207,62.0
+383,Groudon,61.0,Ground,3,Groudon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png,#9CD7C8,206,38.0
+99,Kingler,62.0,Water,1,Krabby,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png,#ACD36C,205,60.0
+310,Manectric,62.0,Electric,3,Electrike,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png,#9CD7C8,204,36.0
+109,Koffing,62.0,Poison,1,Koffing,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png,#ACD36C,203,61.0
+495,Snivy,62.0,Grass,5,Snivy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png,#9FCADF,202,21.0
+171,Lanturn,63.0,Water Electric,2,Chinchou,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png,#DCD677,201,40.0
+447,Riolu,64.0,Fighting,4,Riolu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png,#B7A3C3,200,35.0
+701,Hawlucha,64.0,Fighting Flying,6,Hawlucha,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/701.png,#DD608C,199,7.0
+479,Rotom,65.0,Electric Ghost Electric Grass,4,Rotom,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png,#B7A3C3,198,34.0
+190,Aipom,66.0,Normal,2,Aipom,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png,#DCD677,197,38.0
+153,Bayleef,66.0,Grass,2,Chikorita,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png,#DCD677,196,39.0
+45,Vileplume,67.0,Grass Poison,1,Oddish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png,#ACD36C,195,59.0
+381,Latios,68.0,Dragon Psychic,3,Latios,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png,#9CD7C8,194,35.0
+503,Samurott,68.0,Water,5,Oshawott,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png,#9FCADF,193,20.0
+473,Mamoswine,69.0,Ice Ground,4,Swinub,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png,#B7A3C3,192,33.0
+289,Slaking,69.0,Normal,3,Slakoth,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png,#9CD7C8,191,34.0
+233,Porygon2,69.0,Normal,2,Porygon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png,#DCD677,190,37.0
+122,Mr-Mime,70.0,Psychic Fairy,1,Mime-Jr,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png,#ACD36C,189,57.0
+390,Chimchar,70.0,Fire,4,Chimchar,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png,#B7A3C3,188,32.0
+5,Charmeleon,70.0,Fire,1,Charmander,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png,#ACD36C,187,58.0
+382,Kyogre,71.0,Water,3,Kyogre,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png,#9CD7C8,186,33.0
+175,Togepi,71.0,Fairy,2,Togepi,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png,#DCD677,185,36.0
+425,Drifloon,71.0,Ghost Flying,4,Drifloon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png,#B7A3C3,184,31.0
+232,Donphan,72.0,Ground,2,Phanpy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png,#DCD677,183,34.0
+230,Kingdra,72.0,Water Dragon,2,Horsea,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png,#DCD677,182,35.0
+186,Politoed,73.0,Water,2,Poliwag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png,#DCD677,181,33.0
+697,Tyrantrum,73.0,Rock Dragon,6,Tyrunt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/697.png,#DD608C,180,6.0
+483,Dialga,73.0,Steel Dragon,4,Dialga,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png,#B7A3C3,179,30.0
+430,Honchkrow,74.0,Dark Flying,4,Murkrow,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png,#B7A3C3,178,29.0
+300,Skitty,74.0,Normal,3,Skitty,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png,#9CD7C8,177,32.0
+386,Deoxys,75.0,Psychic Psychic,3,Deoxys,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png,#9CD7C8,176,31.0
+154,Meganium,75.0,Grass,2,Chikorita,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png,#DCD677,175,32.0
+231,Phanpy,77.0,Ground,2,Phanpy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png,#DCD677,174,31.0
+78,Rapidash,77.0,Fire,1,Ponyta,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png,#ACD36C,173,56.0
+251,Celebi,78.0,Psychic Grass,2,Celebi,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png,#DCD677,172,30.0
+595,Joltik,79.0,Bug Electric,5,Joltik,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/595.png,#9FCADF,171,19.0
+202,Wobbuffet,79.0,Psychic,2,Wynaut,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png,#DCD677,170,29.0
+768,Golisopod,79.0,Bug Water,7,Wimpod,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png,#E89483,169,5.0
+80,Slowbro,79.0,Water Psychic,1,Slowpoke,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png,#ACD36C,168,55.0
+200,Misdreavus,80.0,Ghost,2,Misdreavus,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png,#DCD677,167,28.0
+560,Scrafty,80.0,Dark Fighting,5,Scraggy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png,#9FCADF,166,17.0
+545,Scolipede,80.0,Bug Poison,5,Venipede,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png,#9FCADF,165,18.0
+354,Banette,80.0,Ghost,3,Shuppet,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png,#9CD7C8,164,30.0
+429,Mismagius,80.0,Ghost,4,Misdreavus,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png,#B7A3C3,163,28.0
+428,Lopunny,81.0,Normal Fighting,4,Buneary,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png,#B7A3C3,162,26.0
+399,Bidoof,81.0,Normal,4,Bidoof,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png,#B7A3C3,161,27.0
+280,Ralts,82.0,Psychic Fairy,3,Ralts,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png,#9CD7C8,160,29.0
+570,Zorua,82.0,Dark,5,Zorua,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png,#9FCADF,159,16.0
+454,Toxicroak,82.0,Poison Fighting,4,Croagunk,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png,#B7A3C3,158,25.0
+64,Kadabra,82.0,Psychic,1,Abra,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png,#ACD36C,157,54.0
+363,Spheal,83.0,Ice Water,3,Spheal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png,#9CD7C8,156,28.0
+15,Beedrill,83.0,Bug Poison,1,Weedle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png,#ACD36C,155,51.0
+2,Ivysaur,83.0,Grass Poison,1,Bulbasaur,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png,#ACD36C,154,52.0
+105,Marowak,83.0,Ground Fire Ghost,1,Cubone,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png,#ACD36C,153,53.0
+501,Oshawott,83.0,Water,5,Oshawott,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png,#9FCADF,152,15.0
+706,Goodra,85.0,Dragon,6,Goomy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706.png,#DD608C,151,5.0
+321,Wailord,86.0,Water,3,Wailmer,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png,#9CD7C8,150,27.0
+89,Muk,86.0,Poison Poison Dark,1,Grimer,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png,#ACD36C,149,50.0
+198,Murkrow,86.0,Dark Flying,2,Murkrow,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png,#DCD677,148,27.0
+407,Roserade,86.0,Grass Poison,4,Budew,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png,#B7A3C3,147,24.0
+623,Golurk,87.0,Ground Ghost,5,Golett,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png,#9FCADF,146,14.0
+722,Rowlet,89.0,Grass Flying,7,Rowlet,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png,#E89483,145,4.0
+418,Buizel,90.0,Water,4,Buizel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png,#B7A3C3,144,23.0
+494,Victini,91.0,Psychic Fire,5,Victini,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png,#9FCADF,143,13.0
+745,Lycanroc,91.0,Rock,7,Rockruff,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745.png,#E89483,142,3.0
+147,Dratini,92.0,Dragon,1,Dratini,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png,#ACD36C,141,49.0
+625,Bisharp,93.0,Dark Steel,5,Pawniard,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/625.png,#9FCADF,140,12.0
+549,Lilligant,94.0,Grass,5,Petilil,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png,#9FCADF,139,11.0
+136,Flareon,94.0,Fire,1,Eevee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png,#ACD36C,138,48.0
+208,Steelix,95.0,Steel Ground,2,Onix,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png,#DCD677,137,26.0
+553,Krookodile,95.0,Ground Dark,5,Sandile,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png,#9FCADF,136,10.0
+61,Poliwhirl,96.0,Water,1,Poliwag,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png,#ACD36C,135,46.0
+18,Pidgeot,96.0,Normal Flying,1,Pidgey,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png,#ACD36C,134,47.0
+304,Aron,96.0,Steel Rock,3,Aron,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png,#9CD7C8,133,26.0
+380,Latias,97.0,Dragon Psychic,3,Latias,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png,#9CD7C8,132,25.0
+137,Porygon,97.0,Normal,1,Porygon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png,#ACD36C,131,45.0
+152,Chikorita,98.0,Grass,2,Chikorita,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png,#DCD677,130,25.0
+335,Zangoose,99.0,Normal,3,Zangoose,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png,#9CD7C8,129,24.0
+215,Sneasel,103.0,Dark Ice,2,Sneasel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png,#DCD677,128,24.0
+68,Machamp,104.0,Fighting,1,Machop,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png,#ACD36C,127,44.0
+255,Torchic,105.0,Fire,3,Torchic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png,#9CD7C8,126,23.0
+497,Serperior,106.0,Grass,5,Snivy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png,#9FCADF,125,9.0
+184,Azumarill,106.0,Water Fairy,2,Azurill,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png,#DCD677,124,23.0
+724,Decidueye,107.0,Grass Ghost,7,Rowlet,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png,#E89483,123,2.0
+194,Wooper,109.0,Water Ground,2,Wooper,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png,#DCD677,122,22.0
+63,Abra,111.0,Psychic,1,Abra,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png,#ACD36C,121,42.0
+121,Starmie,111.0,Water Psychic,1,Staryu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png,#ACD36C,120,43.0
+579,Reuniclus,112.0,Psychic,5,Solosis,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png,#9FCADF,119,8.0
+492,Shaymin,112.0,Grass Grass Flying,4,Shaymin,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png,#B7A3C3,118,22.0
+466,Electivire,113.0,Electric,4,Elekid,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png,#B7A3C3,117,21.0
+612,Haxorus,115.0,Dragon,5,Axew,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png,#9FCADF,116,7.0
+292,Shedinja,116.0,Bug Ghost,3,Nincada,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png,#9CD7C8,115,22.0
+715,Noivern,116.0,Flying Dragon,6,Noibat,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/715.png,#DD608C,114,4.0
+596,Galvantula,117.0,Bug Electric,5,Joltik,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png,#9FCADF,113,6.0
+83,Farfetchd,118.0,Normal Flying,1,Farfetchd,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png,#ACD36C,112,39.0
+141,Kabutops,118.0,Rock Water,1,Kabuto,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png,#ACD36C,111,40.0
+179,Mareep,118.0,Electric,2,Mareep,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png,#DCD677,110,21.0
+79,Slowpoke,118.0,Water Psychic,1,Slowpoke,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png,#ACD36C,109,41.0
+357,Tropius,118.0,Grass Flying,3,Tropius,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png,#9CD7C8,108,21.0
+129,Magikarp,119.0,Water,1,Magikarp,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png,#ACD36C,107,38.0
+145,Zapdos,121.0,Electric Flying,1,Zapdos,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png,#ACD36C,106,37.0
+385,Jirachi,123.0,Steel Psychic,3,Jirachi,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png,#9CD7C8,105,20.0
+195,Quagsire,123.0,Water Ground,2,Wooper,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png,#DCD677,104,20.0
+403,Shinx,124.0,Electric,4,Shinx,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png,#B7A3C3,103,20.0
+470,Leafeon,127.0,Grass,4,Eevee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png,#B7A3C3,102,19.0
+3,Venusaur,127.0,Grass Poison,1,Bulbasaur,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png,#ACD36C,101,35.0
+43,Oddish,127.0,Grass Poison,1,Oddish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png,#ACD36C,100,36.0
+253,Grovyle,129.0,Grass,3,Treecko,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png,#9CD7C8,99,19.0
+472,Gliscor,132.0,Ground Flying,4,Gligar,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png,#B7A3C3,98,18.0
+162,Furret,132.0,Normal,2,Sentret,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png,#DCD677,97,19.0
+8,Wartortle,133.0,Water,1,Squirtle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png,#ACD36C,96,34.0
+252,Treecko,134.0,Grass,3,Treecko,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png,#9CD7C8,95,18.0
+227,Skarmory,135.0,Steel Flying,2,Skarmory,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png,#DCD677,94,18.0
+144,Articuno,136.0,Ice Flying,1,Articuno,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png,#ACD36C,93,33.0
+334,Altaria,136.0,Dragon Flying Fairy,3,Swablu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png,#9CD7C8,92,17.0
+547,Whimsicott,139.0,Grass Fairy,5,Cottonee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png,#9FCADF,91,5.0
+245,Suicune,140.0,Water,2,Suicune,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png,#DCD677,90,17.0
+398,Staraptor,142.0,Normal Flying,4,Starly,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png,#B7A3C3,89,17.0
+478,Froslass,143.0,Ice Ghost,4,Snorunt,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png,#B7A3C3,88,16.0
+272,Ludicolo,147.0,Water Grass,3,Lotad,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png,#9CD7C8,87,16.0
+474,Porygon-Z,148.0,Normal,4,Porygon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png,#B7A3C3,86,15.0
+487,Giratina,157.0,Ghost Dragon Ghost Dragon,4,Giratina,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png,#B7A3C3,85,14.0
+148,Dragonair,157.0,Dragon,1,Dratini,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png,#ACD36C,84,32.0
+571,Zoroark,159.0,Dark,5,Zorua,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png,#9FCADF,83,4.0
+39,Jigglypuff,162.0,Normal Fairy,1,Igglybuff,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png,#ACD36C,82,31.0
+468,Togekiss,164.0,Fairy Flying,4,Togepi,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png,#B7A3C3,81,13.0
+635,Hydreigon,166.0,Dark Dragon,5,Deino,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png,#9FCADF,80,3.0
+28,Sandslash,167.0,Ground Ice Steel,1,Sandshrew,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png,#ACD36C,79,30.0
+681,Aegislash,168.0,Steel Ghost,6,Honedge,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png,#DD608C,78,3.0
+213,Shuckle,176.0,Bug Rock,2,Shuckle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png,#DCD677,77,16.0
+229,Houndoom,177.0,Dark Fire,2,Houndour,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png,#DCD677,76,15.0
+471,Glaceon,180.0,Ice,4,Eevee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png,#B7A3C3,75,12.0
+156,Quilava,181.0,Fire,2,Cyndaquil,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png,#DCD677,74,14.0
+132,Ditto,184.0,Normal,1,Ditto,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png,#ACD36C,73,29.0
+491,Darkrai,185.0,Dark,4,Darkrai,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png,#B7A3C3,72,10.0
+461,Weavile,185.0,Dark Ice,4,Sneasel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png,#B7A3C3,71,11.0
+393,Piplup,190.0,Water,4,Piplup,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png,#B7A3C3,70,9.0
+27,Sandshrew,200.0,Ground Ice Steel,1,Sandshrew,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png,#ACD36C,69,28.0
+206,Dunsparce,209.0,Normal,2,Dunsparce,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png,#DCD677,68,13.0
+387,Turtwig,218.0,Grass,4,Turtwig,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png,#B7A3C3,67,8.0
+658,Greninja,219.0,Water Dark,6,Froakie,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png,#DD608C,66,2.0
+373,Salamence,220.0,Dragon Flying,3,Bagon,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png,#9CD7C8,65,15.0
+609,Chandelure,222.0,Ghost Fire,5,Litwick,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png,#9FCADF,64,2.0
+350,Milotic,224.0,Water,3,Feebas,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png,#9CD7C8,63,14.0
+286,Breloom,228.0,Grass Fighting,3,Shroomish,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png,#9CD7C8,62,13.0
+169,Crobat,231.0,Poison Flying,2,Zubat,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png,#DCD677,61,12.0
+131,Lapras,233.0,Water Ice,1,Lapras,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png,#ACD36C,60,27.0
+302,Sableye,237.0,Dark Ghost,3,Sableye,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png,#9CD7C8,59,12.0
+475,Gallade,239.0,Psychic Fighting,4,Ralts,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png,#B7A3C3,58,7.0
+303,Mawile,247.0,Steel Fairy,3,Mawile,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png,#9CD7C8,57,11.0
+249,Lugia,260.0,Psychic Flying,2,Lugia,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png,#DCD677,56,11.0
+34,Nidoking,265.0,Poison Ground,1,Nidoran-M,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png,#ACD36C,55,25.0
+130,Gyarados,265.0,Water Flying Dark,1,Magikarp,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png,#ACD36C,54,26.0
+151,Mew,269.0,Psychic,1,Mew,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png,#ACD36C,53,24.0
+134,Vaporeon,275.0,Water,1,Eevee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png,#ACD36C,52,23.0
+58,Growlithe,276.0,Fire,1,Growlithe,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png,#ACD36C,51,22.0
+214,Heracross,279.0,Bug Fighting,2,Heracross,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png,#DCD677,50,10.0
+54,Psyduck,281.0,Water,1,Psyduck,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png,#ACD36C,49,21.0
+700,Sylveon,282.0,Fairy,6,Eevee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png,#DD608C,48,1.0
+778,Mimikyu,284.0,Ghost Fairy,7,Mimikyu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png,#E89483,47,1.0
+160,Feraligatr,287.0,Water,2,Totodile,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png,#DCD677,46,9.0
+637,Volcarona,290.0,Bug Fire,5,Larvesta,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png,#9FCADF,45,1.0
+25,Pikachu,293.0,Electric,1,Pichu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png,#ACD36C,44,20.0
+150,Mewtwo,298.0,Psychic Fighting,1,Mewtwo,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png,#ACD36C,43,19.0
+158,Totodile,300.0,Water,2,Totodile,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png,#DCD677,42,8.0
+26,Raichu,301.0,Electric Electric Psychic,1,Pichu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png,#ACD36C,41,17.0
+93,Haunter,301.0,Ghost Poison,1,Gastly,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png,#ACD36C,40,18.0
+37,Vulpix,302.0,Fire Ice,1,Vulpix,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png,#ACD36C,39,16.0
+306,Aggron,313.0,Steel Rock,3,Aron,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png,#9CD7C8,38,10.0
+384,Rayquaza,316.0,Dragon Flying,3,Rayquaza,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png,#9CD7C8,37,9.0
+104,Cubone,321.0,Ground,1,Cubone,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png,#ACD36C,36,15.0
+135,Jolteon,335.0,Electric,1,Eevee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png,#ACD36C,35,14.0
+254,Sceptile,337.0,Grass Dragon,3,Treecko,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png,#9CD7C8,34,8.0
+395,Empoleon,346.0,Water Steel,4,Piplup,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png,#B7A3C3,33,6.0
+4,Charmander,374.0,Fire,1,Charmander,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png,#ACD36C,32,13.0
+65,Alakazam,376.0,Psychic,1,Abra,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png,#ACD36C,31,12.0
+155,Cyndaquil,377.0,Fire,2,Cyndaquil,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png,#DCD677,30,7.0
+260,Swampert,381.0,Water Ground,3,Mudkip,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png,#9CD7C8,29,7.0
+196,Espeon,384.0,Psychic,2,Eevee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png,#DCD677,28,6.0
+123,Scyther,394.0,Bug Flying,1,Scyther,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png,#ACD36C,27,11.0
+376,Metagross,395.0,Steel Psychic,3,Beldum,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png,#9CD7C8,26,6.0
+445,Garchomp,404.0,Dragon Ground,4,Gible,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png,#B7A3C3,25,5.0
+258,Mudkip,404.0,Water,3,Mudkip,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png,#9CD7C8,24,5.0
+9,Blastoise,410.0,Water,1,Squirtle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png,#ACD36C,23,10.0
+212,Scizor,424.0,Bug Steel,2,Scyther,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png,#DCD677,22,5.0
+405,Luxray,429.0,Electric,4,Shinx,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png,#B7A3C3,21,4.0
+389,Torterra,430.0,Grass Ground,4,Turtwig,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png,#B7A3C3,20,3.0
+143,Snorlax,433.0,Normal,1,Munchlax,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png,#ACD36C,19,9.0
+392,Infernape,443.0,Fire Fighting,4,Chimchar,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png,#B7A3C3,18,2.0
+248,Tyranitar,451.0,Rock Dark,2,Larvitar,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png,#DCD677,17,4.0
+38,Ninetales,471.0,Fire Ice Fairy,1,Vulpix,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png,#ACD36C,16,8.0
+330,Flygon,510.0,Ground Dragon,3,Trapinch,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png,#9CD7C8,15,4.0
+7,Squirtle,523.0,Water,1,Squirtle,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png,#ACD36C,14,7.0
+181,Ampharos,529.0,Electric Dragon,2,Mareep,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png,#DCD677,13,3.0
+157,Typhlosion,534.0,Fire,2,Cyndaquil,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png,#DCD677,12,2.0
+359,Absol,542.0,Dark,3,Absol,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png,#9CD7C8,11,3.0
+149,Dragonite,551.0,Dragon Flying,1,Dratini,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png,#ACD36C,10,6.0
+133,Eevee,581.0,Normal,1,Eevee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png,#ACD36C,9,5.0
+282,Gardevoir,585.0,Psychic Fairy,3,Ralts,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png,#9CD7C8,8,2.0
+448,Lucario,604.0,Fighting Steel,4,Riolu,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png,#B7A3C3,7,1.0
+197,Umbreon,607.0,Dark,2,Eevee,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png,#DCD677,6,1.0
+257,Blaziken,613.0,Fire Fighting,3,Torchic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png,#9CD7C8,5,1.0
+1,Bulbasaur,710.0,Grass Poison,1,Bulbasaur,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png,#ACD36C,4,4.0
+59,Arcanine,923.0,Fire,1,Growlithe,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png,#ACD36C,3,3.0
+94,Gengar,1056.0,Ghost Poison,1,Gastly,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png,#ACD36C,2,2.0
+6,Charizard,1107.0,Fire Flying Dragon,1,Charmander,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png,#ACD36C,1,1.0
