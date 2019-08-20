@@ -7,7 +7,7 @@ Created on Sun Aug 18 19:07:52 2019
 @author: Arturo Moncada-Torres
 arturomoncadatorres@gmail.com
 """
-
+#import sys
 import pandas as pd
 import numpy as np
 import pathlib
@@ -23,11 +23,13 @@ from bokeh.models import DatetimeTickFormatter
 from bokeh.models.tools import HoverTool
 from bokeh.models.widgets import Div, Select
 
+#if '..' not in sys.path:
+#    sys.path.append('..')
 import pokefunctions
 
 # Define paths.
-PATH_DATA = pathlib.Path(r"../data")
-PATH_OUTPUT = pathlib.Path(r"../output")
+PATH_DATA = pathlib.Path(r"../../data")
+PATH_OUTPUT = pathlib.Path(r"../../output")
 if not PATH_OUTPUT.exists():
     PATH_OUTPUT.mkdir()
 

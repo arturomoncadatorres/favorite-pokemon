@@ -1,0 +1,10 @@
+dependencies:
+  - sys
+  - pandas
+  - numpy
+  - pathlib
+  - bokeh
+  - pokefunctions
+  - pip
+  - pip:
+    - jupyter-server-proxy
