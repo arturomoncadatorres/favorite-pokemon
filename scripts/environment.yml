@@ -4,6 +4,7 @@ dependencies:
   - numpy
   - pathlib
   - bokeh
+  - nbserverproxy
   - pokefunctions
   - pip
   - pip:
