@@ -1,11 +1,9 @@
 dependencies:
-  - sys
   - pandas
   - numpy
   - pathlib
   - bokeh
   - nbserverproxy
-  - pokefunctions
   - pip
   - pip:
     - jupyter-server-proxy
